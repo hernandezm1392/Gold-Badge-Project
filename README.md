@@ -8,4 +8,4 @@
 ## **MIKE HERNANDEZ:**
     [GitHub](https://github.com/hernandezm1392/Gold-Badge-Project)
     -UI
-        - [6/25-6/30] [Assisted in mapping of game direction]
+        - [6/25-6/30] [Created ui, data, and repos for each project challenge]
